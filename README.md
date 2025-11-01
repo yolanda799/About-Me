@@ -1,5 +1,5 @@
 # About-Me
-About me: Front-end journey, projects, and inspirations
+ Front-end journey, projects, and inspirations
 <h1 align="center">Welcome to my GitHub! 🫶</h1>
 
 <p align="center">
